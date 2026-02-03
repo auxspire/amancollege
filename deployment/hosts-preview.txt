@@ -1,0 +1,7 @@
+# For now, use IP and port (no hosts file needed):
+#   http://72.61.227.53:8080
+#
+# Optional: to use the domain name before DNS is set, add to hosts:
+#   C:\Windows\System32\drivers\etc\hosts
+#   72.61.227.53 aman.auxspire.com
+# Then open: http://aman.auxspire.com:8080

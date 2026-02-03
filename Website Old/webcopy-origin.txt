@@ -1,0 +1,572 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\www.amancollege.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\www.amancollege.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057qfV.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFThWacfw6zH4dthXcyms1lPpC8I_b0juU057qfV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiKfV.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFThWacfw6zH4dthXcyms1lPpC8I_b0juU0xiKfV.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaID1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xaID1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIb1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xJIb1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIP1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xNIP1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIX1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIX1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIH1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xTIH1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUIL1AA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xUIL1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xIJw.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTjWacfw6zH4dthXcyms1lPpC8I_b0juU057p-xIJw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8dAbxD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8dAbxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA7xD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA7xD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8NBLxD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8NBLxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p91BrxD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p91BrxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95ArxD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95ArxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBbxD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9pBbxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB7xD.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p9RB7xD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v18/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU0J7A.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU0J7A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\www.amancollege.com\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/
+File Name: C:\Downloaded Web Sites\www.amancollege.com\index.htm
+Content Type: text/html
+
+Uri: https://www.amancollege.com/about.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\about.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/contact.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\contact.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/course.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\course.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/css/animate.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\animate.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/aos.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\aos.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/fancybox.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fancybox.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/icofont.min.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\icofont.min.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/ie10-viewport-bug-workaround.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ie10-viewport-bug-workaround.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\www.amancollege.com\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/css/style.css?v=2
+File Name: C:\Downloaded Web Sites\www.amancollege.com\style.css
+Content Type: text/css
+
+Uri: https://www.amancollege.com/faculties.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\faculties.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/fee-structure.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fee-structure.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.amancollege.com/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.amancollege.com/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.amancollege.com/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.amancollege.com/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.amancollege.com/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\www.amancollege.com\icofont.woff
+Content Type: font/woff
+
+Uri: https://www.amancollege.com/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\www.amancollege.com\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://www.amancollege.com/gallery.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\gallery.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/grievance-redressal.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\grievance-redressal.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/images/about-banner.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\about-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/about-college.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\about-college.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/about-image.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\about-image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/about-page.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\about-page.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/academic-1.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/academic-2.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/academic-3.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/academic-icon-1.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-icon-1.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/academic-icon-2.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-icon-2.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/academic-icon-3.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\academic-icon-3.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/ba-english-triple-main.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ba-english-triple-main.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/banner-0.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\banner-0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/banner-1.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/banner-3.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/bba.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\bba.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/bca.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\bca.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/computer-science.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\computer-science.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/contact-bg.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\contact-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/contact-img.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\contact-img.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/course-1.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\course-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/course-2.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\course-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/course-3.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\course-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/dot-map.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\dot-map.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/gallery/th_03f29b1e718e8ba4816fa2eedc39aff1.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_03f29b1e718e8ba4816fa2eedc39aff1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_2b215b1ae127997e92e3055fd4c2512e.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_2b215b1ae127997e92e3055fd4c2512e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_2d9b7d439f0d8efb018ed6a247fa4149.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_2d9b7d439f0d8efb018ed6a247fa4149.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_41429a9ff61906adaec27cdaf2cf00fd.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_41429a9ff61906adaec27cdaf2cf00fd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_4a3893fece45c11c2c961f60e839834a.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_4a3893fece45c11c2c961f60e839834a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_5593a412ca24b224ec4593294a237372.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_5593a412ca24b224ec4593294a237372.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_6e549d6b6a59190ffbd6dd6709ae7407.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_6e549d6b6a59190ffbd6dd6709ae7407.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_7ce0af3c9c6a90ca4ea2134a4bbcba8f.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_7ce0af3c9c6a90ca4ea2134a4bbcba8f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_a19db03c2c5a91bea4822921d150138f.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_a19db03c2c5a91bea4822921d150138f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_ae228de0e710c96d3f81072b89c56079.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_ae228de0e710c96d3f81072b89c56079.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_b5781287fc04b93855c378772d578af4.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_b5781287fc04b93855c378772d578af4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_cc8b257474768983ddae22fd10d88ffb.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_cc8b257474768983ddae22fd10d88ffb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_d13fc00041727e58f16ce5d7845d10f1.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_d13fc00041727e58f16ce5d7845d10f1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_dd10ddbb2a95001bce19b84280b038a3.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_dd10ddbb2a95001bce19b84280b038a3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_e8e414d526c170db28246912c5d4a0d2.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_e8e414d526c170db28246912c5d4a0d2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/gallery/th_edf3b97b78b110a4f5dbc9242c2780d8.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\th_edf3b97b78b110a4f5dbc9242c2780d8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\logo.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/ma-english.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ma-english.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/mail.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mail.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/mcom.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\mcom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/message.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\message.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/nav.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\nav.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/phone.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\phone.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/images/special.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\special.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/taxation.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\taxation.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/team.jpg
+File Name: C:\Downloaded Web Sites\www.amancollege.com\team.jpg
+Content Type: image/jpeg
+
+Uri: https://www.amancollege.com/images/user.png
+File Name: C:\Downloaded Web Sites\www.amancollege.com\user.png
+Content Type: image/png
+
+Uri: https://www.amancollege.com/index.php
+File Name: C:\Downloaded Web Sites\www.amancollege.com\index.php.html
+Content Type: text/html
+
+Uri: https://www.amancollege.com/js/aos.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\aos.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/custom.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\custom.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/fancybox.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\fancybox.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/ie-emulation-modes-warning.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ie-emulation-modes-warning.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/ie10-viewport-bug-workaround.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ie10-viewport-bug-workaround.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.amancollege.com\owl.carousel.js
+Content Type: text/javascript
+
+Uri: https://www.amancollege.com/pdf/ANNEXURE.pdf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\ANNEXURE.pdf
+Content Type: application/pdf
+
+Uri: https://www.amancollege.com/pdf/Mandatory-Disclosure.pdf
+File Name: C:\Downloaded Web Sites\www.amancollege.com\Mandatory-Disclosure.pdf
+Content Type: application/pdf
+

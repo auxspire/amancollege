@@ -1,0 +1,24 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+
+# Deployment / local generated
+deployment/wp-config-generated.php
+deployment/aman_init.sql
+
+# WordPress (if added later)
+wp-content/uploads/
+wp-content/cache/

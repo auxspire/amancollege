@@ -1,0 +1,11 @@
+# Append this to your SSH config: C:\Users\<YourUsername>\.ssh\config
+# (Create the file and .ssh folder if they don't exist.)
+# Use "aman" as the Host so you can run: ssh aman
+
+Host aman
+    HostName 72.61.227.53
+    User root
+    IdentityFile ~/.ssh/id_ed25519
+
+# If your key is id_rsa instead, use:
+#   IdentityFile ~/.ssh/id_rsa
