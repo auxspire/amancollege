@@ -4,6 +4,8 @@ Copy content from `Website Old` into WordPress to match the new KITS College tem
 
 **Local preview:** The `local-preview/` folder now contains a full static site built from all Website Old content and styled with the KITS College theme (Figma-aligned). Run `.\start-local-preview.ps1` to view it. Use this as the content and structure reference when migrating to WordPress.
 
+**Logo:** The ACST shield logo (LEARNER TO LEADER) is in `Website Old/logo.png` and is used in the header and footer of all local-preview pages.
+
 ---
 
 ## Page mapping
