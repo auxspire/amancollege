@@ -12,6 +12,7 @@ node_modules/
 
 # Vercel build output
 out/
+public/
 
 # Environment and secrets
 .env

@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 const root = path.resolve(__dirname, '..');
-const out = path.join(root, 'out');
+const out = path.join(root, 'public');
 
 function copyDir(src, dest) {
   fs.mkdirSync(dest, { recursive: true });
@@ -33,4 +33,4 @@ copyDir(path.join(root, 'local-preview'), out);
 copyDir(path.join(root, 'wp-content'), path.join(out, 'wp-content'));
 copyDir(path.join(root, 'Website Old'), path.join(out, 'Website Old'));
 
-console.log('Vercel build done: out/ (pages at root, assets in wp-content & Website Old)');
+console.log('Vercel build done: public/ (pages at root, assets in wp-content & Website Old)');
