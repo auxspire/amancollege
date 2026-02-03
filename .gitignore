@@ -10,6 +10,9 @@ Thumbs.db
 # Dependencies
 node_modules/
 
+# Vercel build output
+out/
+
 # Environment and secrets
 .env
 .env.local

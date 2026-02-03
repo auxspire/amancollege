@@ -2,6 +2,6 @@
   "name": "amancollege",
   "private": true,
   "scripts": {
-    "build": "echo 'Static site - no build step'"
+    "build": "node scripts/build-vercel.js"
   }
 }

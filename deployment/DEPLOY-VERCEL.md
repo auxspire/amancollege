@@ -7,7 +7,7 @@ The repo is set up so Vercel serves the **local-preview** static site (theme + c
 1. **Build & Development Settings**
    - **Framework Preset:** Other
    - **Build Command:** `npm run build`
-   - **Output Directory:** `.` (dot = project root)
+   - **Output Directory:** `out` (the build script writes the static site here)
    - **Install Command:** leave default (`npm install`)
 
 2. **Redeploy**  
