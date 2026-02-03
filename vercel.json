@@ -1,14 +1,3 @@
 {
-  "version": 2,
-  "rewrites": [
-    { "source": "/", "destination": "/local-preview/index.html" },
-    { "source": "/index.html", "destination": "/local-preview/index.html" },
-    { "source": "/about.html", "destination": "/local-preview/about.html" },
-    { "source": "/courses.html", "destination": "/local-preview/courses.html" },
-    { "source": "/faculties.html", "destination": "/local-preview/faculties.html" },
-    { "source": "/fee-structure.html", "destination": "/local-preview/fee-structure.html" },
-    { "source": "/gallery.html", "destination": "/local-preview/gallery.html" },
-    { "source": "/contact.html", "destination": "/local-preview/contact.html" },
-    { "source": "/grievance.html", "destination": "/local-preview/grievance.html" }
-  ]
+  "version": 2
 }

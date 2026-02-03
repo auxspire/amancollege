@@ -1,6 +1,7 @@
 /**
- * Vercel build: copy static site and assets into `out/` so Output Directory = "out" works.
- * Keeps local-preview, wp-content, and Website Old so asset paths (../wp-content, ../Website Old) resolve.
+ * Vercel build: output static site at root of `out/` so no rewrites are needed.
+ * - Pages at out/index.html, out/about.html, ... (from local-preview)
+ * - Assets at out/wp-content, out/Website Old so ../ paths in HTML resolve
  */
 const fs = require('fs');
 const path = require('path');
@@ -25,22 +26,11 @@ function copyDir(src, dest) {
 if (fs.existsSync(out)) fs.rmSync(out, { recursive: true });
 fs.mkdirSync(out, { recursive: true });
 
-copyDir(path.join(root, 'local-preview'), path.join(out, 'local-preview'));
+// Pages at deployment root: /index.html, /about.html, etc.
+copyDir(path.join(root, 'local-preview'), out);
+
+// Assets: ../wp-content and ../Website Old from pages resolve to these
 copyDir(path.join(root, 'wp-content'), path.join(out, 'wp-content'));
 copyDir(path.join(root, 'Website Old'), path.join(out, 'Website Old'));
 
-const redirectHtml = `<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0;url=/local-preview/">
-  <title>Redirecting – Aman College</title>
-</head>
-<body>
-  <p>Redirecting to <a href="/local-preview/">Aman College</a>…</p>
-</body>
-</html>
-`;
-fs.writeFileSync(path.join(out, 'index.html'), redirectHtml, 'utf8');
-
-console.log('Vercel build done: out/');
+console.log('Vercel build done: out/ (pages at root, assets in wp-content & Website Old)');
